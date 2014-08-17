@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="612pt"
+   height="792pt"
+   id="svg3038"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 3">
+  <defs
+     id="defs3040">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4154" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective2454" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path983"
+         sodipodi:nodetypes="ccccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,1.5,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path2148"
+         sodipodi:nodetypes="cccc" />
+    </marker>
+    <inkscape:perspective
+       id="perspective2929"
+       inkscape:persp3d-origin="526.18109 : 248.03149 : 1"
+       inkscape:vp_z="1052.3622 : 372.04724 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 372.04724 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="in"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0182338"
+     inkscape:cx="492.24762"
+     inkscape:cy="627.59464"
+     inkscape:current-layer="layer2"
+     id="namedview3042"
+     showgrid="false"
+     inkscape:window-width="1150"
+     inkscape:window-height="968"
+     inkscape:window-x="24"
+     inkscape:window-y="42"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3044">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="text"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       x="75.000008"
+       y="134.44444"
+       id="text3047"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3049"
+         x="75.000008"
+         y="134.44444"
+         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Weak Gravity</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="history">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       x="138.88889"
+       y="801.11108"
+       id="text3052"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3054"
+         x="138.88889"
+         y="801.11108"
+         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="831.11108"
+         id="tspan3427">1932 Jan Oort, Milky Way motions</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="861.11108"
+         id="tspan3056">1922 Fritz Zwicky, motions of galaxies</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="891.11108"
+         id="tspan3058">1962 Alar Toomre, thin disc galaxies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       x="71.692764"
+       y="183.70184"
+       id="text3476"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3478"
+         x="71.692764"
+         y="183.70184">When gravity is 10<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan3480">-10</tspan>g, Newton's law doesn't work</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="current_efforts">
+    <text
+       sodipodi:linespacing="125%"
+       id="text3429"
+       y="533.98187"
+       x="143.79935"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold"
+         y="533.98187"
+         x="143.79935"
+         id="tspan3431"
+         sodipodi:role="line">Current Efforts</tspan><tspan
+         id="tspan3437"
+         y="564.29584"
+         x="143.79935"
+         sodipodi:role="line">Dark matter - plug in what is needed</tspan><tspan
+         y="594.29584"
+         x="143.79935"
+         sodipodi:role="line"
+         id="tspan3444">MOND - change Newton's law</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="my_effort">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       x="139.87097"
+       y="650.85089"
+       id="text3446"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3448"
+         x="139.87097"
+         y="650.85089"
+         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Effort</tspan><tspan
+         id="tspan3452"
+         sodipodi:role="line"
+         x="139.87097"
+         y="681.16486">Its not a static, non-rotating, point source</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="711.16486"
+         id="tspan3458">The product rule</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="741.16486"
+         id="tspan3456">Account for loss of light</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="images">
+    <g
+       transform="matrix(0.67251475,0,0,0.67251475,337.20666,-146.62349)"
+       style="display:inline"
+       id="layer1-6"
+       inkscape:label="Layer 1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1310"
+         d="m 25,604.09447 0,120.00001 215,0"
+         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:none"
+         sodipodi:nodetypes="ccc" />
+      <g
+         inkscape:label="Layer 1"
+         id="layer1-2"
+         transform="matrix(0,-0.99999999,0.99999999,0,4.7142867,622.23734)">
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           id="path2444"
+           d="m 15.142857,18.285714 0,4 8,-2 -8,-2 z"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.00000024;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <g
+         style="display:inline"
+         inkscape:label="Layer 1"
+         id="layer1-2-7"
+         transform="translate(221.85715,703.80877)">
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           id="path2444-2"
+           d="m 15.142857,18.285714 0,4 8,-2 -8,-2 z"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.00000024;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <path
+         sodipodi:nodetypes="csssccc"
+         id="path2190"
+         d="m 33.987211,711.72094 c 0.326293,-7.34855 0.796709,-16.82956 1.109845,-25.96946 0.247708,-7.23019 0.737087,-14.50057 1.149015,-21.47036 0.578516,-9.78853 1.370585,-18.11856 2.19937,-25.30359 0.920531,-7.98042 1.639535,-13.9087 3.106753,-14.5576 15.630783,-5.61592 29.304641,12.02627 53.068728,30.50252 34.227848,23.6431 87.826828,34.31888 139.859898,39.60262"
+         style="fill:none;stroke:#204a87;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.4955243, 4.4955243;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text5263"
+         y="688.19403"
+         x="219.43105"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#204a87;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="688.19403"
+           x="219.43105"
+           id="tspan5265"
+           sodipodi:role="line">A</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path4521"
+         d="m 33.948212,711.74603 c 1.300764,-27.93926 1.814098,-55.72321 5.867448,-83.43821 0.690785,-7.05277 3.535066,-9.76056 13.082217,-9.76056 11.866081,0 21.535735,3.92136 35.667131,3.92136 15.634922,0.0996 61.597352,-6.47692 76.343772,-5.93455 16.19491,0 61.94528,1.95106 69.57204,2.56041"
+         style="font-size:8.00796509px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#cc0000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cc0000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="221.93747"
+         y="613.96252"
+         id="text5267"><tspan
+           style="font-size:16px;fill:#cc0000;stroke:none"
+           sodipodi:role="line"
+           id="tspan5269"
+           x="221.93747"
+           y="613.96252">B</tspan></text>
+      <rect
+         y="561.59985"
+         x="6.6208959"
+         height="185.93127"
+         width="261.84644"
+         id="rect11511"
+         style="opacity:0;fill:none;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       x="437.03128"
+       y="262.26926"
+       id="text3183"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3185"
+         x="437.03128"
+         y="262.26926"
+         style="font-size:16px">seen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       x="466.40546"
+       y="219.79228"
+       id="text3187"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.976173,0.21699373,-0.21699373,0.976173,0,0)"
+       inkscape:transform-center-x="-13.749299"
+       inkscape:transform-center-y="5.8925565"><tspan
+         sodipodi:role="line"
+         id="tspan3189"
+         x="466.40546"
+         y="219.79228"
+         style="font-size:16px">predicted</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3200"
+       y="356.55017"
+       x="356.49966"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       xml:space="preserve"><tspan
+         style="font-size:16px"
+         y="356.55017"
+         x="356.49966"
+         id="tspan3202"
+         sodipodi:role="line">R from center</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       x="-334.65857"
+       y="343.47607"
+       id="text3204"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.00123634,-0.99999924,0.99999924,0.00123634,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3206"
+         x="-334.65857"
+         y="343.47607"
+         style="font-size:16px">Velocity</tspan></text>
+    <image
+       y="360.42313"
+       x="162.62608"
+       id="image3357"
+       xlink:href="file:///Users/doug/Physics_problems/images/spiral_galaxy_a5_by_alphaspace-d5beywe.jpg"
+       height="67.87532"
+       width="386.76508" />
+  </g>
+</svg>
