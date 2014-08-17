@@ -15,7 +15,7 @@
    id="svg3038"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 3">
+   sodipodi:docname="p1.weak_gravity.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -77,7 +77,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="492.24762"
-     inkscape:cy="627.59464"
+     inkscape:cy="749.47735"
      inkscape:current-layer="layer2"
      id="namedview3042"
      showgrid="false"
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -123,25 +123,25 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        x="138.88889"
-       y="801.11108"
+       y="509.11108"
        id="text3052"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3054"
          x="138.88889"
-         y="801.11108"
+         y="509.11108"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="831.11108"
+         y="539.42505"
          id="tspan3427">1932 Jan Oort, Milky Way motions</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="861.11108"
+         y="569.42505"
          id="tspan3056">1922 Fritz Zwicky, motions of galaxies</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="891.11108"
+         y="599.42505"
          id="tspan3058">1962 Alar Toomre, thin disc galaxies</tspan></text>
     <text
        xml:space="preserve"
@@ -164,20 +164,20 @@
     <text
        sodipodi:linespacing="125%"
        id="text3429"
-       y="533.98187"
+       y="669.98187"
        x="143.79935"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        xml:space="preserve"><tspan
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold"
-         y="533.98187"
+         y="669.98187"
          x="143.79935"
          id="tspan3431"
          sodipodi:role="line">Current Efforts</tspan><tspan
          id="tspan3437"
-         y="564.29584"
+         y="700.29584"
          x="143.79935"
          sodipodi:role="line">Dark matter - plug in what is needed</tspan><tspan
-         y="594.29584"
+         y="730.29584"
          x="143.79935"
          sodipodi:role="line"
          id="tspan3444">MOND - change Newton's law</tspan></text>
@@ -190,25 +190,25 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        x="139.87097"
-       y="650.85089"
+       y="786.85089"
        id="text3446"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3448"
          x="139.87097"
-         y="650.85089"
+         y="786.85089"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Effort</tspan><tspan
          id="tspan3452"
          sodipodi:role="line"
          x="139.87097"
-         y="681.16486">Its not a static, non-rotating, point source</tspan><tspan
+         y="817.16486">Its not a static, non-rotating, point source</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="711.16486"
+         y="847.16486"
          id="tspan3458">The product rule</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="741.16486"
+         y="877.16486"
          id="tspan3456">Account for loss of light</tspan></text>
   </g>
   <g
