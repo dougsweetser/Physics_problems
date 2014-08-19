@@ -14,7 +14,7 @@
    id="svg3038"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p1.weak_gravity.svg">
+   sodipodi:docname="p7.small_and_fast_physics.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -76,8 +76,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="492.24762"
-     inkscape:cy="709.71526"
-     inkscape:current-layer="layer4"
+     inkscape:cy="514.88104"
+     inkscape:current-layer="layer5"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,7 +112,7 @@
          id="tspan3049"
          x="75.000008"
          y="134.44444"
-         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Title</tspan></text>
+         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Small and Fast Physics</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -144,7 +144,11 @@
          sodipodi:role="line"
          id="tspan3478"
          x="71.692764"
-         y="183.70184">one liner</tspan></text>
+         y="183.70184">Calculations in relativistic quantum field theory require</tspan><tspan
+         sodipodi:role="line"
+         x="71.692764"
+         y="213.70184"
+         id="tspan3181">management of infinities (regularization and renormalization)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -161,7 +165,12 @@
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan></text>
+         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
+         y="693.98187"
+         x="137.79935"
+         sodipodi:role="line"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3183">Shut up and calculate</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

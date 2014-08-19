@@ -14,7 +14,7 @@
    id="svg3038"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p1.weak_gravity.svg">
+   sodipodi:docname="p6.fast_physics.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -76,8 +76,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="492.24762"
-     inkscape:cy="709.71526"
-     inkscape:current-layer="layer4"
+     inkscape:cy="582.47659"
+     inkscape:current-layer="layer5"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,7 +112,7 @@
          id="tspan3049"
          x="75.000008"
          y="134.44444"
-         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Title</tspan></text>
+         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Fast Physics</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -132,7 +132,22 @@
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="563.11108"
+         y="563.42505"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3079">1887 Nichelson-Morley, speed of light unchanged</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="593.42505"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3081">         by the speed of the Earth</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="623.42505"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3083">1905 Einstein's special relavity</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="653.42505"
          id="tspan3058" /></text>
     <text
        xml:space="preserve"
@@ -144,7 +159,7 @@
          sodipodi:role="line"
          id="tspan3478"
          x="71.692764"
-         y="183.70184">one liner</tspan></text>
+         y="183.70184">How does Nature impose the speed of light limit?</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -161,7 +176,12 @@
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan></text>
+         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
+         y="693.98187"
+         x="137.79935"
+         sodipodi:role="line"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3085">Its the Lorentz group, stupid (no need to explain)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

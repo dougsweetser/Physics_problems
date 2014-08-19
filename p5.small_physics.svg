@@ -13,8 +13,8 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="template.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="p5.small_physics.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -76,8 +76,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="492.24762"
-     inkscape:cy="467.16654"
-     inkscape:current-layer="layer2"
+     inkscape:cy="796.88059"
+     inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -132,7 +132,17 @@
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="563.11108"
+         y="563.42505"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3005">1920s Einstein vs Bohr</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="593.42505"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3007">Your choice: Copenhagen, many worlds, ... no winner</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="623.42505"
          id="tspan3058" /></text>
     <text
        xml:space="preserve"
@@ -161,7 +171,12 @@
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan></text>
+         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
+         y="693.98187"
+         x="137.79935"
+         sodipodi:role="line"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3009">Philosophical physicist continue the stalemate</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -182,7 +197,18 @@
          sodipodi:role="line"
          x="139.87097"
          y="860.85089"
-         id="tspan3456" /></text>
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3011">Visualize complex numbers correctly</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="890.85089"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3013">Not a totally ordered set</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="920.85089"
+         id="tspan3456"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
