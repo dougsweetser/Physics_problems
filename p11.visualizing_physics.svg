@@ -13,8 +13,8 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p1.weak_gravity.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="p11.visualizing_physics.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -77,13 +77,13 @@
      inkscape:zoom="1.0182338"
      inkscape:cx="492.24762"
      inkscape:cy="709.71526"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
-     inkscape:window-height="968"
+     inkscape:window-height="712"
      inkscape:window-x="59"
-     inkscape:window-y="172"
+     inkscape:window-y="30"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata3044">
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,7 +112,7 @@
          id="tspan3049"
          x="75.000008"
          y="134.44444"
-         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Title</tspan></text>
+         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Visualizing Physics</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -144,7 +144,7 @@
          sodipodi:role="line"
          id="tspan3478"
          x="71.692764"
-         y="183.70184">one liner</tspan></text>
+         y="183.70184">People cannot understand calculations, but can get pictures</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
