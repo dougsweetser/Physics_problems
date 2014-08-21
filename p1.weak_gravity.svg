@@ -77,14 +77,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="492.24762"
-     inkscape:cy="749.47735"
-     inkscape:current-layer="layer2"
+     inkscape:cy="263.88019"
+     inkscape:current-layer="layer5"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
-     inkscape:window-height="968"
-     inkscape:window-x="24"
-     inkscape:window-y="42"
+     inkscape:window-height="856"
+     inkscape:window-x="25"
+     inkscape:window-y="19"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata3044">
@@ -134,15 +134,15 @@
          sodipodi:role="line"
          x="138.88889"
          y="539.42505"
-         id="tspan3427">1932 Jan Oort, Milky Way motions</tspan><tspan
+         id="tspan3427">1932 Jan Oort, Milky Way motions too fast</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
          y="569.42505"
-         id="tspan3056">1922 Fritz Zwicky, motions of galaxies</tspan><tspan
+         id="tspan3056">1922 Fritz Zwicky, motions of galaxies too fast</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
          y="599.42505"
-         id="tspan3058">1962 Alar Toomre, thin disc galaxies</tspan></text>
+         id="tspan3058">1962 Alar Toomre, thin disc galaxies too fast, unstable</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
@@ -180,7 +180,7 @@
          y="730.29584"
          x="143.79935"
          sodipodi:role="line"
-         id="tspan3444">MOND - change Newton's law</tspan></text>
+         id="tspan3444">MOND - change Newton's law from 1/R2 to 1/R</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -201,14 +201,18 @@
          id="tspan3452"
          sodipodi:role="line"
          x="139.87097"
-         y="817.16486">Its not a static, non-rotating, point source</tspan><tspan
+         y="817.16486">Need a stable, constant velocity solution for gravity</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
          y="847.16486"
-         id="tspan3458">The product rule</tspan><tspan
+         id="tspan3137">Galaxies are not a static, non-rotating, point sources</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
          y="877.16486"
+         id="tspan3458">The product rule may come into play</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="907.16486"
          id="tspan3456">Account for loss of light</tspan></text>
   </g>
   <g
