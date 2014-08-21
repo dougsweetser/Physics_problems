@@ -462,8 +462,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="322.28787"
-     inkscape:cy="637.36166"
-     inkscape:current-layer="layer2"
+     inkscape:cy="281.45751"
+     inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1297"
@@ -1073,11 +1073,11 @@
          y="437.1741"
          x="367.30267"
          sodipodi:role="line"
-         id="tspan6186">&quot;Yes&quot; for linear EM, </tspan><tspan
+         id="tspan6186">&quot;Yes&quot; for 4 linear EM eqs, </tspan><tspan
          y="467.1741"
          x="367.30267"
          sodipodi:role="line"
-         id="tspan6188">&quot;no&quot; for nonlinear GR.</tspan></text>
+         id="tspan6188">&quot;no&quot; for 10 nonlinear GR eqs.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1124,7 +1124,17 @@
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Effort</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="860.85089"
+         y="861.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3209">Make a 1 nonlinear gravity field theory.</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="891.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3211">It changes measurements of all quanta.</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="921.16486"
          id="tspan3456" /></text>
   </g>
   <g
