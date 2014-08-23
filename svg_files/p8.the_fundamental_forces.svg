@@ -14,7 +14,7 @@
    id="svg3038"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p7.small_and_fast_physics.svg">
+   sodipodi:docname="p8.the_fundamental_forces.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -76,14 +76,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="492.24762"
-     inkscape:cy="514.88104"
-     inkscape:current-layer="layer5"
+     inkscape:cy="142.72898"
+     inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
-     inkscape:window-height="968"
+     inkscape:window-height="712"
      inkscape:window-x="59"
-     inkscape:window-y="172"
+     inkscape:window-y="30"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata3044">
@@ -112,7 +112,7 @@
          id="tspan3049"
          x="75.000008"
          y="134.44444"
-         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Small and Fast Physics</tspan></text>
+         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Fundamental Forces</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -144,11 +144,7 @@
          sodipodi:role="line"
          id="tspan3478"
          x="71.692764"
-         y="183.70184">Calculations in relativistic quantum field theory require</tspan><tspan
-         sodipodi:role="line"
-         x="71.692764"
-         y="213.70184"
-         id="tspan3181">management of infinities (regularization and renormalization)</tspan></text>
+         y="183.70184">Why are these 4 forces in particular the ones Nature uses?</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -165,12 +161,7 @@
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
-         y="693.98187"
-         x="137.79935"
-         sodipodi:role="line"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
-         id="tspan3183">Shut up and calculate</tspan></text>
+         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -191,7 +182,27 @@
          sodipodi:role="line"
          x="139.87097"
          y="860.85089"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan6447">Only symmetries, not forces, work for 13 billion years</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="890.85089"
          id="tspan3456" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6449"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Standard Symbols L;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Standard Symbols L;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion6451"><rect
+           id="rect6453"
+           width="27.498596"
+           height="103.11974"
+           x="494.97473"
+           y="671.80194" /></flowRegion><flowPara
+         id="flowPara6455" /></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -4.9104636,900.62956 791.5667336,0"
+       id="path3553"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
