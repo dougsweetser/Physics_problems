@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="612pt"
@@ -76,12 +77,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="349.84418"
-     inkscape:cy="630.19109"
-     inkscape:current-layer="layer2"
+     inkscape:cy="633.67188"
+     inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
-     inkscape:window-height="968"
+     inkscape:window-height="856"
      inkscape:window-x="59"
      inkscape:window-y="172"
      inkscape:window-maximized="0" />
@@ -93,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,42 +123,42 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        x="138.88889"
-       y="533.11108"
+       y="411.11108"
        id="text3052"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3054"
          x="138.88889"
-         y="533.11108"
+         y="411.11108"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="563.42505"
+         y="441.42508"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan5648">1998  Perlmutter, Schmidt, Riess</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="593.42505"
+         y="471.42508"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan5652">          Type 1a supernovae moving slow in the past</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="623.42505"
+         y="501.42508"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan5656">          meaning we are accelerating now</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="653.42505"
+         y="531.42505"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan5654" /><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="683.42505"
+         y="561.42505"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan5650" /><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="713.42505"
+         y="591.42505"
          id="tspan3058" /></text>
     <text
        xml:space="preserve"
@@ -170,6 +171,13 @@
          id="tspan3478"
          x="71.692764"
          y="183.70184">The Universe is now going faster, not slowing down</tspan></text>
+    <image
+       y="199.08461"
+       x="219.6552"
+       id="image3316"
+       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/monsterhubble.gif"
+       height="190.2054"
+       width="247.37096" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -178,16 +186,16 @@
     <text
        sodipodi:linespacing="125%"
        id="text3429"
-       y="663.98187"
+       y="541.98187"
        x="137.79935"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        xml:space="preserve"><tspan
-         y="663.98187"
+         y="541.98187"
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
-         y="694.29584"
+         y="572.29584"
          x="137.79935"
          sodipodi:role="line"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
@@ -201,23 +209,48 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        x="139.87097"
-       y="830.85089"
+       y="632.85089"
        id="text3446"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3448"
          x="139.87097"
-         y="830.85089"
+         y="632.85089"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Effort</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="860.85089"
+         y="663.16486"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
-         id="tspan5627">The Universe is not static, non-rotating</tspan><tspan
+         id="tspan5627">The data looks like a real, but small, math error</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="890.85089"
+         y="693.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3327">Nothing can do nothing (observering nothing is subtle)</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="723.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3325">The Universe is not a static, non-rotating, spherical mass</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="753.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3319">The product rule could come into play</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="783.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3321">Account for light</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="813.16486"
          id="tspan3456" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -21.60604,901.61166 831.83253,0"
+       id="path3323"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
