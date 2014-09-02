@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="612pt"
@@ -75,13 +76,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
-     inkscape:cx="492.24762"
-     inkscape:cy="582.47659"
-     inkscape:current-layer="layer5"
+     inkscape:cx="385.76888"
+     inkscape:cy="419.58196"
+     inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
-     inkscape:window-height="968"
+     inkscape:window-height="856"
      inkscape:window-x="59"
      inkscape:window-y="172"
      inkscape:window-maximized="0" />
@@ -121,33 +122,33 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
-       x="138.88889"
-       y="533.11108"
+       x="131.03215"
+       y="397.58228"
        id="text3052"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3054"
-         x="138.88889"
-         y="533.11108"
+         x="131.03215"
+         y="397.58228"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
          sodipodi:role="line"
-         x="138.88889"
-         y="563.42505"
+         x="131.03215"
+         y="427.89624"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan3079">1887 Nichelson-Morley, speed of light unchanged</tspan><tspan
          sodipodi:role="line"
-         x="138.88889"
-         y="593.42505"
+         x="131.03215"
+         y="457.89624"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan3081">         by the speed of the Earth</tspan><tspan
          sodipodi:role="line"
-         x="138.88889"
-         y="623.42505"
+         x="131.03215"
+         y="487.89624"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan3083">1905 Einstein's special relavity</tspan><tspan
          sodipodi:role="line"
-         x="138.88889"
-         y="653.42505"
+         x="131.03215"
+         y="517.89624"
          id="tspan3058" /></text>
     <text
        xml:space="preserve"
@@ -168,20 +169,27 @@
     <text
        sodipodi:linespacing="125%"
        id="text3429"
-       y="663.98187"
-       x="137.79935"
+       y="528.45306"
+       x="130.50415"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        xml:space="preserve"><tspan
-         y="663.98187"
-         x="137.79935"
+         y="528.45306"
+         x="130.50415"
          sodipodi:role="line"
          id="tspan3444"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
-         y="693.98187"
-         x="137.79935"
+         y="558.76703"
+         x="130.50415"
          sodipodi:role="line"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan3085">Its the Lorentz group, stupid (no need to explain)</tspan></text>
+    <image
+       y="212.2981"
+       x="192.36589"
+       id="image3146"
+       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/Warp-Boom.jpg"
+       height="140.56627"
+       width="254.6106" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -190,19 +198,49 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
-       x="139.87097"
-       y="830.85089"
+       x="130.26414"
+       y="625.59351"
        id="text3446"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3448"
-         x="139.87097"
-         y="830.85089"
+         x="130.26414"
+         y="625.59351"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Effort</tspan><tspan
          sodipodi:role="line"
-         x="139.87097"
-         y="860.85089"
+         x="130.26414"
+         y="655.90747"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3151">Wavelength and frequency do change, their ratio doesn't</tspan><tspan
+         sodipodi:role="line"
+         x="130.26414"
+         y="685.90747"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3153">Changes in time = changes in space, the definition of unity</tspan><tspan
+         sodipodi:role="line"
+         x="130.26414"
+         y="715.90747"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3155">    in space-time</tspan><tspan
+         sodipodi:role="line"
+         x="130.26414"
+         y="745.90747"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3157">Photons have no story to tell</tspan><tspan
+         sodipodi:role="line"
+         x="130.26414"
+         y="775.90747"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3159"> </tspan><tspan
+         sodipodi:role="line"
+         x="130.26414"
+         y="805.90747"
          id="tspan3456" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -6.874649,902.59375 808.262309,0"
+       id="path3149"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
