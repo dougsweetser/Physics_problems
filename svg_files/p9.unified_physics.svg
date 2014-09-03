@@ -7,13 +7,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="612pt"
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="p9.unified_physics.svg">
   <defs
      id="defs3040">
@@ -76,8 +77,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="492.24762"
-     inkscape:cy="709.71526"
-     inkscape:current-layer="layer2"
+     inkscape:cy="645.97329"
+     inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
@@ -122,17 +123,22 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        x="138.88889"
-       y="533.11108"
+       y="377.11108"
        id="text3052"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3054"
          x="138.88889"
-         y="533.11108"
+         y="377.11108"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="563.11108"
+         y="407.11108"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3418">Common goal at the end of a career in physics</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="437.11108"
          id="tspan3058" /></text>
     <text
        xml:space="preserve"
@@ -145,6 +151,37 @@
          id="tspan3478"
          x="71.692764"
          y="183.70184">How does Nature make it all work, from tiny to HUGE?</tspan></text>
+    <image
+       y="199.14114"
+       x="198.23387"
+       id="image3138"
+       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/big_equations.jpeg"
+       height="137.05934"
+       width="129.38402" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3141"
+       y="251.46625"
+       x="346.67871"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       xml:space="preserve"><tspan
+         y="251.46625"
+         x="346.67871"
+         id="tspan3143"
+         sodipodi:role="line"
+         style="font-size:14px">Fieled equations of general relativity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       x="346.67871"
+       y="301.55298"
+       id="text3145"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:14px"
+         sodipodi:role="line"
+         id="tspan3147"
+         x="346.67871"
+         y="301.55298">Dirac equations of quantum field theory</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -153,15 +190,25 @@
     <text
        sodipodi:linespacing="125%"
        id="text3429"
-       y="663.98187"
+       y="451.98187"
        x="137.79935"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        xml:space="preserve"><tspan
-         y="663.98187"
+         y="451.98187"
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan></text>
+         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
+         y="482.29587"
+         x="137.79935"
+         sodipodi:role="line"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3420">Work on strings makes the most claims</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -7.8567417,900.62956 804.3339317,0"
+       id="path3422"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -171,18 +218,52 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        x="139.87097"
-       y="830.85089"
+       y="546.85089"
        id="text3446"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3448"
          x="139.87097"
-         y="830.85089"
+         y="546.85089"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Effort</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="860.85089"
-         id="tspan3456" /></text>
+         y="577.16486"
+         id="tspan3456"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium">Build causality into number theory:</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="607.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3404">    [0, 1) timelike, [1] lightlike, (1,     ) spacelike</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="637.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3412">Quaternion analysis needs factors of 1/3, good for quarks</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="667.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3414">Working on the quaternion manifold may need maps that</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="697.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3424">     return in 2pi and 4pi, good for bosons and fermions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Standard Symbols L;-inkscape-font-specification:Standard Symbols L"
+       x="-607.15704"
+       y="507.51172"
+       id="text3408"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:transform-center-x="161.06321"><tspan
+         sodipodi:role="line"
+         id="tspan3410"
+         x="-607.15704"
+         y="507.51172">8</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
