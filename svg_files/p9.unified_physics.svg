@@ -14,7 +14,7 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="p9.unified_physics.svg">
   <defs
      id="defs3040">
@@ -176,14 +176,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5091169"
-     inkscape:cx="419.15976"
-     inkscape:cy="136.77841"
-     inkscape:current-layer="layer6"
+     inkscape:zoom="8.1458704"
+     inkscape:cx="483.31036"
+     inkscape:cy="179.64676"
+     inkscape:current-layer="g7275"
      id="namedview3042"
      showgrid="false"
-     inkscape:window-width="1150"
-     inkscape:window-height="712"
+     inkscape:window-width="1161"
+     inkscape:window-height="818"
      inkscape:window-x="59"
      inkscape:window-y="30"
      inkscape:window-maximized="0" />
@@ -592,6 +592,12 @@
          sodipodi:role="line">0</tspan></text>
     <g
        id="g7152" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3290"
+       d="m 445.37905,798.54305 c -0.43824,3.2579 -2.29885,3.64198 -5.15599,3.68285"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <g
        id="g7275"
        transform="translate(79.544768,22.859113)">
@@ -602,21 +608,17 @@
           <g
              id="g7059">
             <path
-               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#DotM);marker-end:url(#EmptyDiamondL)"
-               d="m 326.05478,779.34111 39.77476,0"
+               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#DotM);marker-end:none"
+               d="m 326.05478,779.34111 35.35534,0"
                id="path5842"
-               inkscape:connector-curvature="0" />
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc" />
             <path
                style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                d="m 365.96285,768.82951 0,22.09708"
                id="path6638"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="cc" />
-            <path
-               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)"
-               d="m 371.47656,779.34111 41.2479,0"
-               id="path6640"
-               inkscape:connector-curvature="0" />
           </g>
           <text
              sodipodi:linespacing="125%"
@@ -630,53 +632,7 @@
                id="tspan7066"
                sodipodi:role="line">+∞</tspan></text>
         </g>
-        <g
-           id="g7088">
-          <path
-             inkscape:connector-curvature="0"
-             id="path7090"
-             d="m 326.05478,779.34111 39.77476,0"
-             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#DotM);marker-end:url(#EmptyDiamondL)" />
-          <path
-             sodipodi:nodetypes="cc"
-             inkscape:connector-curvature="0"
-             id="path7092"
-             d="m 365.96285,768.82951 0,22.09708"
-             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path7094"
-             d="m 371.47656,779.34111 41.2479,0"
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)" />
-        </g>
       </g>
-      <g
-         id="g7134">
-        <g
-           id="g7136">
-          <path
-             inkscape:connector-curvature="0"
-             id="path7138"
-             d="m 326.05478,779.34111 39.77476,0"
-             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#DotM);marker-end:url(#EmptyDiamondL)" />
-          <path
-             sodipodi:nodetypes="cc"
-             inkscape:connector-curvature="0"
-             id="path7140"
-             d="m 365.96285,768.82951 0,22.09708"
-             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path7142"
-             d="m 371.47656,779.34111 41.2479,0"
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)" />
-        </g>
-      </g>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#DotM);marker-end:url(#EmptyDiamondL)"
-         d="m 326.05478,779.34111 39.77476,0"
-         id="path7154"
-         inkscape:connector-curvature="0" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 365.96285,768.82951 0,22.09708"
@@ -685,9 +641,10 @@
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)"
-         d="m 371.47656,779.34111 41.2479,0"
+         d="m 366.5661,779.34111 46.15836,0"
          id="path7158"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
     </g>
     <g
        id="g7311"
@@ -1555,6 +1512,23 @@
          y="833.04889"
          x="479.77686"
          sodipodi:role="line">One zero for the observer, good, 8 1's, odd</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3286"
+       sodipodi:cx="501.35834"
+       sodipodi:cy="849.31525"
+       sodipodi:rx="3.6828477"
+       sodipodi:ry="3.6828477"
+       d="m 505.04119,849.31525 a 3.6828477,3.6828477 0 0 1 -3.68285,3.68284 l 0,-3.68284 z"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 445.37905,805.85762 c -0.43824,-3.2579 -2.29885,-3.64198 -5.15599,-3.68285"
+       id="path3288"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:groupmode="layer"
