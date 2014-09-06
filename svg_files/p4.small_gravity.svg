@@ -621,8 +621,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="322.28787"
-     inkscape:cy="625.49819"
-     inkscape:current-layer="layer2"
+     inkscape:cy="744.87232"
+     inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1297"
@@ -666,23 +666,23 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
-       x="138.88889"
-       y="533.11108"
+       x="72.888893"
+       y="487.11108"
        id="text3052"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3054"
-         x="138.88889"
-         y="533.11108"
+         x="72.888893"
+         y="487.11108"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
          sodipodi:role="line"
-         x="138.88889"
-         y="563.42505"
+         x="72.888893"
+         y="517.42505"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan3641">1916+  Force laws the same, so quantization the same, no?</tspan><tspan
          sodipodi:role="line"
-         x="138.88889"
-         y="593.42505"
+         x="72.888893"
+         y="547.42505"
          id="tspan3058" /></text>
     <text
        xml:space="preserve"
@@ -696,15 +696,15 @@
          x="71.692764"
          y="183.70184">Get gravity to work nicely with quantum mechanics.</tspan></text>
     <image
-       y="621.22473"
-       x="569.55023"
+       y="575.22473"
+       x="503.55023"
        id="image3634"
        xlink:href="file:///Users/doug/Physics_problems/svg_files/images/spin_networks.gif"
        height="125.4481"
        width="149.08878" />
     <image
-       y="596.90802"
-       x="420.50916"
+       y="550.90802"
+       x="354.50916"
        id="image3727"
        xlink:href="file:///Users/doug/Physics_problems/svg_files/images/String_theory_summary.png"
        height="133.29367"
@@ -868,7 +868,7 @@
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium">gauge dep. stuff</tspan></text>
     <g
        id="surface1-4"
-       transform="matrix(0.92754173,0,0,0.92754173,26.916901,355.50428)">
+       transform="matrix(0.74489718,0,0,0.74489718,27.095468,355.57124)">
       <g
          id="g5987"
          style="fill:#000000;fill-opacity:1">
@@ -1139,24 +1139,24 @@
     <text
        sodipodi:linespacing="125%"
        id="text6180"
-       y="377.1741"
-       x="367.30267"
+       y="356.55017"
+       x="340.78616"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        xml:space="preserve"><tspan
-         y="377.1741"
-         x="367.30267"
+         y="356.55017"
+         x="340.78616"
          id="tspan6182"
          sodipodi:role="line">The issue: does the perturbation</tspan><tspan
-         y="407.1741"
-         x="367.30267"
+         y="386.55017"
+         x="340.78616"
          sodipodi:role="line"
          id="tspan6184">converge in a scattering calculation?</tspan><tspan
-         y="437.1741"
-         x="367.30267"
+         y="416.55017"
+         x="340.78616"
          sodipodi:role="line"
          id="tspan6186">&quot;Yes&quot; for 4 linear EM eqs, </tspan><tspan
-         y="467.1741"
-         x="367.30267"
+         y="446.55017"
+         x="340.78616"
          sodipodi:role="line"
          id="tspan6188">&quot;no&quot; for 10 nonlinear GR eqs.</tspan></text>
     <path
@@ -1375,22 +1375,22 @@
     <text
        sodipodi:linespacing="125%"
        id="text3429"
-       y="663.98187"
-       x="137.79935"
+       y="617.98187"
+       x="71.799347"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        xml:space="preserve"><tspan
-         y="663.98187"
-         x="137.79935"
+         y="617.98187"
+         x="71.799347"
          sodipodi:role="line"
          id="tspan3444"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
-         y="694.29584"
-         x="137.79935"
+         y="648.29584"
+         x="71.799347"
          sodipodi:role="line"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan3637">Work with strings</tspan><tspan
-         y="723.98187"
-         x="137.79935"
+         y="678.29584"
+         x="71.799347"
          sodipodi:role="line"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan3639">Loop quantum gravity</tspan></text>
@@ -1402,28 +1402,33 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
-       x="139.87097"
-       y="798.85089"
+       x="73.870972"
+       y="752.85089"
        id="text3446"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3448"
-         x="139.87097"
-         y="798.85089"
+         x="73.870972"
+         y="752.85089"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Effort</tspan><tspan
          sodipodi:role="line"
-         x="139.87097"
-         y="829.16486"
+         x="73.870972"
+         y="783.16486"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
-         id="tspan3209">Make a 1 nonlinear gravity field theory.</tspan><tspan
+         id="tspan3209">Make a 1 nonlinear equation gravity field theory.</tspan><tspan
          sodipodi:role="line"
-         x="139.87097"
-         y="859.16486"
+         x="73.870972"
+         y="813.16486"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3603">Size of unity smaller for time, larger for space measures</tspan><tspan
+         sodipodi:role="line"
+         x="73.870972"
+         y="843.16486"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan3211">It changes measurements of all quanta.</tspan><tspan
          sodipodi:role="line"
-         x="139.87097"
-         y="889.16486"
+         x="73.870972"
+         y="873.16486"
          id="tspan3456" /></text>
   </g>
   <g
