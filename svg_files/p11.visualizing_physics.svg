@@ -7,13 +7,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="612pt"
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="p11.visualizing_physics.svg">
   <defs
      id="defs3040">
@@ -66,6 +67,23 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 372.04724 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <font
+       horiz-adv-x="1024"
+       id="SVGTimesFont">
+      <font-face
+         id="font-face3953"
+         font-weight="normal"
+         units-per-em="2048"
+         font-family="SVGTimes" />
+      <missing-glyph
+         id="missing-glyph3955"
+         d="M128 0V1638H896V0H128ZM256 128H768V1510H256V128Z" />
+      <glyph
+         id="glyph3957"
+         d="M1184 469H135V584H1184V469Z"
+         horiz-adv-x="1319"
+         unicode="-" />
+    </font>
   </defs>
   <sodipodi:namedview
      inkscape:document-units="in"
@@ -76,8 +94,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="492.24762"
-     inkscape:cy="709.71526"
-     inkscape:current-layer="layer1"
+     inkscape:cy="388.26987"
+     inkscape:current-layer="layer5"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
@@ -113,6 +131,13 @@
          x="75.000008"
          y="134.44444"
          style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Visualizing Physics</tspan></text>
+    <image
+       y="192.31847"
+       x="160.4437"
+       id="image4387"
+       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/minimum.jpg"
+       height="217.48698"
+       width="436.26343" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -120,20 +145,29 @@
      inkscape:label="history">
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Bold"
        x="138.88889"
-       y="533.11108"
+       y="445.11108"
        id="text3052"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3054"
+         id="tspan4392"
          x="138.88889"
-         y="533.11108"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
+         y="445.11108">History</tspan><tspan
          sodipodi:role="line"
+         id="tspan4394"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          x="138.88889"
-         y="563.11108"
-         id="tspan3058" /></text>
+         y="475.42508">1637  Descartes created analytic geometry</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         x="138.88889"
+         y="505.42508"
+         id="tspan4398">1660+  Newton graphed infinitesimal change</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4396"
+         x="138.88889"
+         y="535.42505" /></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
@@ -161,7 +195,12 @@
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan></text>
+         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
+         y="693.98187"
+         x="137.79935"
+         sodipodi:role="line"
+         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold"
+         id="tspan4400" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
