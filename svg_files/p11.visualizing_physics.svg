@@ -14,7 +14,7 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="p11.visualizing_physics.svg">
   <defs
      id="defs3040">
@@ -94,8 +94,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="492.24762"
-     inkscape:cy="388.26987"
-     inkscape:current-layer="layer5"
+     inkscape:cy="728.39858"
+     inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
      inkscape:window-width="1150"
@@ -187,16 +187,26 @@
     <text
        sodipodi:linespacing="125%"
        id="text3429"
-       y="663.98187"
+       y="559.98187"
        x="137.79935"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        xml:space="preserve"><tspan
-         y="663.98187"
+         y="559.98187"
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
-         y="693.98187"
+         y="590.29584"
+         x="137.79935"
+         sodipodi:role="line"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3101">Many sites devoted to visualizing classical physics</tspan><tspan
+         y="620.29584"
+         x="137.79935"
+         sodipodi:role="line"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3103">Bernd Thaller worked on quantum mechanics</tspan><tspan
+         y="650.29584"
          x="137.79935"
          sodipodi:role="line"
          style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold"
@@ -210,18 +220,29 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
        x="139.87097"
-       y="830.85089"
+       y="686.85089"
        id="text3446"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3448"
          x="139.87097"
-         y="830.85089"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Efforts</tspan><tspan
+         y="686.85089"
+         style="font-style:normal;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold"
+         id="tspan3107">My Efforts</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="860.85089"
-         id="tspan3456" /></text>
+         y="717.16486"
+         style="font-style:normal;font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3117">Created animated gifs</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="747.16486"
+         style="font-style:normal;font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         id="tspan3119">Neet to treat as a &quot;game&quot; that can be changed on the fly</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="777.16486"
+         id="tspan3456"
+         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
