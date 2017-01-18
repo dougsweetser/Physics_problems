@@ -14,8 +14,8 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p4.small_gravity.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="p104.small_gravity.svg">
   <defs
      id="defs3040">
     <marker
@@ -621,7 +621,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
      inkscape:cx="322.28787"
-     inkscape:cy="744.87232"
+     inkscape:cy="357.86903"
      inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
@@ -696,19 +696,21 @@
          x="71.692764"
          y="183.70184">Get gravity to work nicely with quantum mechanics.</tspan></text>
     <image
-       y="575.22473"
-       x="503.55023"
-       id="image3634"
-       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/spin_networks.gif"
+       sodipodi:absref="/Users/doug/Physics_problems/svg_files/images/spin_networks.gif"
+       xlink:href="images/spin_networks.gif"
+       width="149.08878"
        height="125.4481"
-       width="149.08878" />
+       id="image3634"
+       x="503.55023"
+       y="575.22473" />
     <image
-       y="550.90802"
-       x="354.50916"
-       id="image3727"
-       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/String_theory_summary.png"
+       sodipodi:absref="/Users/doug/Physics_problems/svg_files/images/String_theory_summary.png"
+       xlink:href="images/String_theory_summary.png"
+       width="138.12816"
        height="133.29367"
-       width="138.12816" />
+       id="image3727"
+       x="354.50916"
+       y="550.90802" />
     <g
        id="surface1-8"
        transform="matrix(1.25,0,0,1.25,437.87617,208.71028)">
@@ -1159,11 +1161,6 @@
          x="340.78616"
          sodipodi:role="line"
          id="tspan6188">&quot;no&quot; for 10 nonlinear GR eqs.</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -18.659762,900.62956 809.244402,0"
-       id="path3210"
-       inkscape:connector-curvature="0" />
     <g
        id="surface1"
        transform="matrix(0.66898343,0,0,0.66898343,35.686453,204.99295)">
@@ -1401,7 +1398,7 @@
      inkscape:label="my_effort">
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="73.870972"
        y="752.85089"
        id="text3446"
@@ -1410,26 +1407,15 @@
          id="tspan3448"
          x="73.870972"
          y="752.85089"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Efforts</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">My Efforts</tspan><tspan
          sodipodi:role="line"
          x="73.870972"
-         y="783.16486"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
-         id="tspan3209">Make a 1 nonlinear equation gravity field theory.</tspan><tspan
+         y="784.10089"
+         id="tspan3456">Space-times-time equivalence class as gravity means</tspan><tspan
          sodipodi:role="line"
          x="73.870972"
-         y="813.16486"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
-         id="tspan3603">Size of unity smaller for time, larger for space measures</tspan><tspan
-         sodipodi:role="line"
-         x="73.870972"
-         y="843.16486"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
-         id="tspan3211">It changes measurements of all quanta.</tspan><tspan
-         sodipodi:role="line"
-         x="73.870972"
-         y="873.16486"
-         id="tspan3456" /></text>
+         y="815.35089"
+         id="tspan4765">there are NO gravitons and nothing to quantize.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

@@ -14,8 +14,8 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p6.fast_physics.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="p106.fast_physics.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -76,8 +76,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
-     inkscape:cx="385.76888"
-     inkscape:cy="419.58196"
+     inkscape:cx="193.76975"
+     inkscape:cy="157.23242"
      inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
@@ -184,12 +184,13 @@
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
          id="tspan3085">Its the Lorentz group, stupid (no need to explain)</tspan></text>
     <image
-       y="212.2981"
-       x="192.36589"
-       id="image3146"
-       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/Warp-Boom.jpg"
+       sodipodi:absref="/Users/doug/Physics_problems/svg_files/images/Warp-Boom.jpg"
+       xlink:href="images/Warp-Boom.jpg"
+       width="254.6106"
        height="140.56627"
-       width="254.6106" />
+       id="image3146"
+       x="192.36589"
+       y="212.2981" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -231,16 +232,11 @@
          x="130.26414"
          y="775.90747"
          style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
-         id="tspan3159"> </tspan><tspan
+         id="tspan3159" /><tspan
          sodipodi:role="line"
          x="130.26414"
          y="805.90747"
          id="tspan3456" /></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -6.874649,902.59375 808.262309,0"
-       id="path3149"
-       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"

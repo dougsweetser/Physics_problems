@@ -14,8 +14,8 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p1.weak_gravity.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="p101.weak_gravity.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -76,13 +76,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
-     inkscape:cx="492.24762"
-     inkscape:cy="263.88019"
+     inkscape:cx="377.23628"
+     inkscape:cy="445.43731"
      inkscape:current-layer="layer5"
      id="namedview3042"
      showgrid="false"
-     inkscape:window-width="1150"
-     inkscape:window-height="856"
+     inkscape:window-width="1278"
+     inkscape:window-height="937"
      inkscape:window-x="25"
      inkscape:window-y="19"
      inkscape:window-maximized="0" />
@@ -113,7 +113,7 @@
          id="tspan3049"
          x="75.000008"
          y="134.44444"
-         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Weak Gravity</tspan></text>
+         style="font-size:55.99999905px;font-weight:bold;-inkscape-font-specification:'Palatino, Bold';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Weak Gravity</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -121,7 +121,7 @@
      inkscape:label="history">
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
        x="138.88889"
        y="509.11108"
        id="text3052"
@@ -130,19 +130,23 @@
          id="tspan3054"
          x="138.88889"
          y="509.11108"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
+         style="font-weight:bold;-inkscape-font-specification:'Palatino, Bold';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">History</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="539.42505"
+         y="539.11108"
          id="tspan3427">1932 Jan Oort, Milky Way motions too fast</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="569.42505"
-         id="tspan3056">1922 Fritz Zwicky, motions of galaxies too fast</tspan><tspan
+         y="569.11108"
+         id="tspan3056">1933 Fritz Zwicky, motions of galaxies too fast</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
-         y="599.42505"
-         id="tspan3058">1962 Alar Toomre, thin disc galaxies too fast, unstable</tspan></text>
+         y="599.11108"
+         id="tspan3058">1962 Alar Toomre, thin disc galaxies too fast, unstable</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="629.11108"
+         id="tspan4290">1970s Vera Rubin rotation profile data</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
@@ -153,8 +157,9 @@
          sodipodi:role="line"
          id="tspan3478"
          x="71.692764"
-         y="183.70184">When gravity is 10<tspan
-   style="font-size:65.00091553%;baseline-shift:super"
+         y="183.70184"
+         style="-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">When gravity is 10<tspan
+   style="font-size:25px;baseline-shift:super;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
    id="tspan3480">-10</tspan>g, Newton's law doesn't work</tspan></text>
   </g>
   <g
@@ -166,21 +171,25 @@
        id="text3429"
        y="669.98187"
        x="143.79935"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
          y="669.98187"
          x="143.79935"
          id="tspan3431"
          sodipodi:role="line">Current Efforts</tspan><tspan
          id="tspan3437"
-         y="700.29584"
-         x="143.79935"
-         sodipodi:role="line">Dark matter - plug in what is needed</tspan><tspan
-         y="730.29584"
+         y="699.98187"
          x="143.79935"
          sodipodi:role="line"
-         id="tspan3444">MOND - change Newton's law from 1/R2 to 1/R</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Dark matter - plug in what is needed</tspan><tspan
+         y="729.98187"
+         x="143.79935"
+         sodipodi:role="line"
+         id="tspan3444"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">MOND - change Newton's law from 1/R<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan4395">2</tspan> to 1/R</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -188,7 +197,7 @@
      inkscape:label="my_effort">
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="139.87097"
        y="786.85089"
        id="text3446"
@@ -197,23 +206,36 @@
          id="tspan3448"
          x="139.87097"
          y="786.85089"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Efforts</tspan><tspan
-         id="tspan3452"
+         style="font-weight:bold;-inkscape-font-specification:'Palatino, Bold';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24.00000095px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">My Efforts</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="817.16486">Need a stable, constant velocity solution for gravity</tspan><tspan
+         y="816.85089"
+         id="tspan3137"
+         style="-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Need a stable, constant velocity solution for gravity</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="847.16486"
-         id="tspan3137">Galaxies are not a static, non-rotating, point sources</tspan><tspan
+         y="846.85089"
+         id="tspan3458"
+         style="-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">The product rule may come into play</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="877.16486"
-         id="tspan3458">The product rule may come into play</tspan><tspan
+         y="876.85089"
+         id="tspan4389"
+         style="-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Use BOTH 1st order terms (only 1st is, 2nd ignored)</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="907.16486"
-         id="tspan3456">Account for loss of light</tspan></text>
+         y="906.85089"
+         id="tspan3456" /></text>
+    <image
+       sodipodi:absref="/Users/doug/Google Drive/Talks/Train_wreck/first_order_g.png"
+       y="887.36536"
+       x="138.05692"
+       id="image4386"
+       xlink:href="file:///Users/doug/Google%20Drive/Talks/Train_wreck/first_order_g.png"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="39.076756"
+       width="558.0871" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -347,11 +369,12 @@
          y="343.47607"
          style="font-size:16px">Velocity</tspan></text>
     <image
-       y="360.42313"
-       x="162.62608"
-       id="image3357"
-       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/spiral_galaxy_a5_by_alphaspace-d5beywe.jpg"
+       sodipodi:absref="/Users/doug/Physics_problems/svg_files/images/spiral_galaxy_a5_by_alphaspace-d5beywe.jpg"
+       xlink:href="images/spiral_galaxy_a5_by_alphaspace-d5beywe.jpg"
+       width="386.76508"
        height="67.87532"
-       width="386.76508" />
+       id="image3357"
+       x="162.62608"
+       y="360.42313" />
   </g>
 </svg>

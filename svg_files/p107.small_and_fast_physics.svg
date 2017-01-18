@@ -14,8 +14,8 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p7.small_and_fast_physics.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="p107.small_and_fast_physics.svg">
   <defs
      id="defs3040">
     <marker
@@ -778,13 +778,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.72000003"
-     inkscape:cx="263.75149"
-     inkscape:cy="773.41464"
+     inkscape:cx="404.14999"
+     inkscape:cy="569.68927"
      inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
-     inkscape:window-width="1047"
-     inkscape:window-height="596"
+     inkscape:window-width="1331"
+     inkscape:window-height="862"
      inkscape:window-x="33"
      inkscape:window-y="78"
      inkscape:window-maximized="0" />
@@ -1511,7 +1511,7 @@
      inkscape:label="my_effort">
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="139.87097"
        y="668.85089"
        id="text3446"
@@ -1520,30 +1520,47 @@
          id="tspan3448"
          x="139.87097"
          y="668.85089"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Efforts</tspan><tspan
+         style="font-weight:bold;-inkscape-font-specification:'URW Palladio L Bold'">My Efforts</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="699.16486"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         y="698.85089"
+         style="font-weight:500;-inkscape-font-specification:'URW Palladio L Medium'"
          id="tspan5859">Nature uses all well-formed terms.</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="729.16486"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         y="728.85089"
+         style="font-weight:500;-inkscape-font-specification:'URW Palladio L Medium'"
          id="tspan5861">Use a Lagrangian's neighbors.</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="759.16486"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         y="758.85089"
+         style="font-weight:500;-inkscape-font-specification:'URW Palladio L Medium'"
          id="tspan5863">Using the complete set, field equations can be inverted</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="789.16486"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         y="788.85089"
+         style="font-weight:500;-inkscape-font-specification:'URW Palladio L Medium'"
          id="tspan5865">    without choosing a gauge</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="819.16486"
+         y="818.85089"
+         style="font-weight:500;-inkscape-font-specification:'URW Palladio L Medium'"
+         id="tspan7733"><tspan
+   style="-inkscape-font-specification:'URW Palladio L, Italic';font-family:'URW Palladio L';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   id="tspan7739">B</tspan><tspan
+   style="font-size:25px;baseline-shift:super;-inkscape-font-specification:'URW Palladio L, Italic';font-family:'URW Palladio L';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   id="tspan7735">2</tspan><tspan
+   style="-inkscape-font-specification:'URW Palladio L, Italic';font-family:'URW Palladio L';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   id="tspan7741">-E</tspan><tspan
+   style="font-size:25px;baseline-shift:super;-inkscape-font-specification:'URW Palladio L, Italic';font-family:'URW Palladio L';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   id="tspan7737">2</tspan> unchanged by time reversal, <tspan
+   style="-inkscape-font-specification:'URW Palladio L, Italic';font-family:'URW Palladio L';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   id="tspan7745">E</tspan>x<tspan
+   style="-inkscape-font-specification:'URW Palladio L, Italic';font-family:'URW Palladio L';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   id="tspan7747">B</tspan> does change</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="848.85089"
          id="tspan3456" /></text>
     <g
        id="surface1-9"
@@ -1804,11 +1821,6 @@
            height="1" />
       </g>
     </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -18.055555,899.88889 811.111085,0"
-       id="path6349"
-       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"

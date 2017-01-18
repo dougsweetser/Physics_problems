@@ -14,8 +14,8 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p5.small_physics.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="p105.small_physics.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -413,13 +413,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
-     inkscape:cx="492.24762"
-     inkscape:cy="263.88019"
-     inkscape:current-layer="layer6"
+     inkscape:cx="260.96478"
+     inkscape:cy="485.74609"
+     inkscape:current-layer="layer5"
      id="namedview3042"
      showgrid="false"
-     inkscape:window-width="1150"
-     inkscape:window-height="856"
+     inkscape:window-width="1384"
+     inkscape:window-height="901"
      inkscape:window-x="28"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -512,18 +512,23 @@
        id="text3429"
        y="577.98187"
        x="137.79935"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="577.98187"
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
-         y="608.29584"
+         style="font-weight:bold;-inkscape-font-specification:'URW Palladio L Bold'">Current Efforts</tspan><tspan
+         y="607.98187"
          x="137.79935"
          sodipodi:role="line"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
-         id="tspan3009">Philosophical physicist continue the stalemate</tspan></text>
+         style="font-weight:500;-inkscape-font-specification:'URW Palladio L Medium'"
+         id="tspan3009">Philosophical physicist continue the stalemate</tspan><tspan
+         y="637.98187"
+         x="137.79935"
+         sodipodi:role="line"
+         style="font-weight:500;-inkscape-font-specification:'URW Palladio L Medium'"
+         id="tspan5723">http://bit.ly/qm_visual</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -886,11 +891,6 @@
          y="660.98645"
          transform="matrix(0,-1,1,0,0,0)" />
     </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -6.874649,900.59375 811.208589,0"
-       id="path4003"
-       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"

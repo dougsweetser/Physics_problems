@@ -14,8 +14,8 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p10.the_arrow_of_time.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="p110.the_arrow_of_time.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -972,13 +972,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
-     inkscape:cx="502.07637"
-     inkscape:cy="840.10231"
-     inkscape:current-layer="layer6"
+     inkscape:cx="396.55356"
+     inkscape:cy="690.33917"
+     inkscape:current-layer="layer5"
      id="namedview3042"
      showgrid="false"
-     inkscape:window-width="1155"
-     inkscape:window-height="780"
+     inkscape:window-width="1400"
+     inkscape:window-height="908"
      inkscape:window-x="59"
      inkscape:window-y="30"
      inkscape:window-maximized="0" />
@@ -1000,7 +1000,7 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino;-inkscape-font-specification:'Palatino, Bold';"
        x="75.000008"
        y="134.44444"
        id="text3047"
@@ -1009,7 +1009,7 @@
          id="tspan3049"
          x="75.000008"
          y="134.44444"
-         style="font-size:56px;font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">The Arrow of Time</tspan></text>
+         style="font-size:50px;font-weight:bold;-inkscape-font-specification:'Palatino, Bold';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">The Arrow of Time</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1017,7 +1017,7 @@
      inkscape:label="history">
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';"
        x="138.88889"
        y="347.11108"
        id="text3052"
@@ -1026,25 +1026,25 @@
          id="tspan3054"
          x="138.88889"
          y="347.11108"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
+         style="font-weight:bold;-inkscape-font-specification:'Palatino, Bold';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">History</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
          y="377.42508"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         style="font-weight:normal;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          id="tspan4199">1800s  Boltzmann saw asymmetry put into 2nd law of </tspan><tspan
          sodipodi:role="line"
          x="138.88889"
          y="407.42508"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         style="font-weight:normal;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          id="tspan4201">            thermodynamics &quot;by hand&quot;</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
          y="437.42508"
          id="tspan3058"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium" /></text>
+         style="font-weight:normal;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;" /></text>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';"
        x="71.692764"
        y="183.70184"
        id="text3476"
@@ -1699,47 +1699,67 @@
        id="text3429"
        y="477.98187"
        x="137.79935"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';"
        xml:space="preserve"><tspan
          y="477.98187"
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
+         style="font-weight:bold;-inkscape-font-specification:'Palatino, Bold';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Current Efforts</tspan><tspan
          y="508.29587"
          x="137.79935"
          sodipodi:role="line"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         style="font-weight:normal;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          id="tspan4203">Information theory</tspan><tspan
          y="538.29584"
          x="137.79935"
          sodipodi:role="line"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         style="font-weight:normal;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          id="tspan4205">Holographic principle</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -6.874649,901.61166 808.262309,0"
-       id="path4207"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="60.21402"
        y="706.80945"
        id="text5254"
        sodipodi:linespacing="125%"><tspan
          id="tspan5260"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="60.21402"
          y="706.80945">Classically, delta is super tiny, but adds up with 10<tspan
-   style="font-size:65.00091553%;baseline-shift:super"
-   id="tspan5268">23</tspan> particles,</tspan><tspan
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan11312">23</tspan> particles,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="60.21402"
-         y="736.80945"
-         id="tspan5270">so laws are not space-time symmetric.</tspan></text>
+         y="738.05945"
+         id="tspan5270">so laws are not space-time symmetric.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="60.21402"
+         y="769.30945"
+         id="tspan11308">Maxwell equations are invariant under time reversal: </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="60.21402"
+         y="800.55945"
+         id="tspan11322">        starts from <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.625px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan11332">B<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan11338">2</tspan>-E<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan11336">2</tspan></tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="60.21402"
+         y="831.80945"
+         id="tspan11326">Poynting vector <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan11330">E</tspan>x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan11328">B</tspan> flips sign under time reversal</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

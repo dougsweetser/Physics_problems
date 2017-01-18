@@ -14,8 +14,8 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p8.the_fundamental_forces.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="p108.the_fundamental_forces.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -76,13 +76,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0182338"
-     inkscape:cx="187.56057"
-     inkscape:cy="583.06775"
+     inkscape:cx="376.73562"
+     inkscape:cy="841.88146"
      inkscape:current-layer="layer6"
      id="namedview3042"
      showgrid="false"
-     inkscape:window-width="1150"
-     inkscape:window-height="712"
+     inkscape:window-width="1428"
+     inkscape:window-height="857"
      inkscape:window-x="59"
      inkscape:window-y="30"
      inkscape:window-maximized="0" />
@@ -281,7 +281,7 @@
      inkscape:label="my_effort">
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="139.87097"
        y="746.85089"
        id="text3446"
@@ -290,22 +290,44 @@
          id="tspan3448"
          x="139.87097"
          y="746.85089"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Efforts</tspan><tspan
+         style="font-weight:bold;-inkscape-font-specification:'URW Palladio L Bold'">My Efforts</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="777.16486"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         y="776.27478"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.38375092px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6447">Only symmetries, not forces, work for 13 billion years</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="807.16486"
-         id="tspan3456">Symmetries should be baked into the math</tspan><tspan
+         y="805.50446"
+         id="tspan3456"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.38375092px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Symmetries should be baked into the math</tspan><tspan
          sodipodi:role="line"
          x="139.87097"
-         y="837.16486"
-         id="tspan3365">Exploring modifications of the quaternion group Q<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan3375">8 </tspan></tspan></text>
+         y="834.73413"
+         id="tspan8461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.38375092px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Gravity is space-times-time equivalence class. Numbers</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="863.96387"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.38375092px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan8497">        have different representations, but same squares</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="893.19354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.38375092px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan8499">Space-time number with norm of 1 has: U(1), SU(2)</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="922.42322"
+         id="tspan3365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.38375092px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">        and Q<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan8479">8</tspan> symmetries.</tspan><tspan
+         sodipodi:role="line"
+         x="139.87097"
+         y="951.65289"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.38375092px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan8483" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6449"
@@ -316,19 +338,25 @@
            height="103.11974"
            x="494.97473"
            y="671.80194" /></flowRegion><flowPara
-         id="flowPara6455" /></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -4.9104636,900.62956 791.5667336,0"
-       id="path3553"
-       inkscape:connector-curvature="0" />
-    <image
-       y="203.65483"
-       x="109.96805"
-       id="image3314"
-       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/standard_model_particles.jpg"
+         id="flowPara6455" /></flowRoot>    <image
+       sodipodi:absref="/Users/doug/Physics_problems/svg_files/images/standard_model_particles.jpg"
+       xlink:href="images/standard_model_particles.jpg"
+       width="154.47682"
        height="154.47682"
-       width="154.47682" />
-  </g>
+       id="image3314"
+       x="109.96805"
+       y="203.65483" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8487"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Palatino;font-style:normal;font-weight:normal;font-size:25px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Palatino, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion8489"><rect
+           id="rect8491"
+           width="159.09901"
+           height="31.426968"
+           x="528.36591"
+           y="883.93396" /></flowRegion><flowPara
+         id="flowPara8493"></flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"

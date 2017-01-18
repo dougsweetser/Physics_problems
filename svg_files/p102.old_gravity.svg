@@ -14,8 +14,8 @@
    height="792pt"
    id="svg3038"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="p2.old_gravity.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="p102.old_gravity.svg">
   <defs
      id="defs3040">
     <inkscape:perspective
@@ -1166,16 +1166,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0182338"
-     inkscape:cx="492.24762"
-     inkscape:cy="740.71685"
-     inkscape:current-layer="layer6"
+     inkscape:zoom="0.5091169"
+     inkscape:cx="422.26724"
+     inkscape:cy="565.6508"
+     inkscape:current-layer="layer2"
      id="namedview3042"
      showgrid="false"
-     inkscape:window-width="1150"
-     inkscape:window-height="856"
-     inkscape:window-x="240"
-     inkscape:window-y="45"
+     inkscape:window-width="1159"
+     inkscape:window-height="954"
+     inkscape:window-x="49"
+     inkscape:window-y="43"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata3044">
@@ -1185,7 +1185,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1212,7 +1212,7 @@
      inkscape:label="history">
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';"
        x="138.88889"
        y="533.11108"
        id="text3052"
@@ -1221,31 +1221,31 @@
          id="tspan3054"
          x="138.88889"
          y="533.11108"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">History</tspan><tspan
+         style="font-weight:bold;-inkscape-font-specification:'Palatino, Bold';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">History</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
          y="563.42505"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         style="font-weight:normal;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          id="tspan3624">1969  Dicke, the Universe is flat now, but had to be far</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
          y="593.42505"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         style="font-weight:normal;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          id="tspan5676">          more flat at the start</tspan><tspan
          sodipodi:role="line"
          x="138.88889"
          y="623.42505"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         style="font-weight:normal;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          id="tspan5674" /><tspan
          sodipodi:role="line"
          x="138.88889"
          y="653.42505"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         style="font-weight:normal;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          id="tspan5672" /><tspan
          sodipodi:role="line"
          x="138.88889"
          y="683.42505"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         style="font-weight:normal;-inkscape-font-specification:'Palatino, Normal';font-family:Palatino;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          id="tspan3626" /><tspan
          sodipodi:role="line"
          x="138.88889"
@@ -1253,7 +1253,7 @@
          id="tspan3058" /></text>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';"
        x="71.692764"
        y="183.70184"
        id="text3476"
@@ -1928,26 +1928,29 @@
       </g>
     </g>
     <image
-       y="230.01158"
-       x="204.9059"
-       id="image7411"
-       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/flatness.gif"
+       sodipodi:absref="/Users/doug/Physics_problems/svg_files/images/flatness.gif"
+       xlink:href="images/flatness.gif"
+       width="130.33917"
        height="100.07213"
-       width="130.33917" />
+       id="image7411"
+       x="204.9059"
+       y="230.01158" />
     <image
-       y="248.02505"
-       x="586.79785"
-       id="image7473"
-       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/cosmic_background.gif"
+       sodipodi:absref="/Users/doug/Physics_problems/svg_files/images/cosmic_background.gif"
+       xlink:href="images/cosmic_background.gif"
+       width="136.51611"
        height="204.77417"
-       width="136.51611" />
+       id="image7473"
+       x="586.79785"
+       y="248.02505" />
     <image
-       y="344.41782"
-       x="395.17841"
-       id="image7535"
-       xlink:href="file:///Users/doug/Physics_problems/svg_files/images/horizon.gif"
+       sodipodi:absref="/Users/doug/Physics_problems/svg_files/images/horizon.gif"
+       xlink:href="images/horizon.gif"
+       width="178.96873"
        height="90.93705"
-       width="178.96873" />
+       id="image7535"
+       x="395.17841"
+       y="344.41782" />
     <text
        sodipodi:linespacing="125%"
        id="text7538"
@@ -2010,11 +2013,16 @@
          x="43.625961"
          y="322.67886"
          id="tspan7583" /></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -9.8209272,902.59375 818.0832372,0"
-       id="path7600"
-       inkscape:connector-curvature="0" />
+    <image
+       sodipodi:absref="/Users/doug/Google Drive/Talks/Train_wreck/first_order_g.png"
+       y="851.5578"
+       x="139.53339"
+       id="image7780"
+       xlink:href="file:///Users/doug/Google%20Drive/Talks/Train_wreck/first_order_g.png"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="37.323032"
+       width="533.04077" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2023,20 +2031,20 @@
     <text
        sodipodi:linespacing="125%"
        id="text3429"
-       y="663.98187"
+       y="635.98187"
        x="137.79935"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="663.98187"
+         y="635.98187"
          x="137.79935"
          sodipodi:role="line"
          id="tspan3444"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">Current Efforts</tspan><tspan
-         y="694.29584"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Current Efforts</tspan><tspan
+         y="667.23187"
          x="137.79935"
          sodipodi:role="line"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
-         id="tspan3603">Inflation - magic to make Universe briefly grow like crazy</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan3603">Inflation - magic! Universe briefly grows like crazy</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2044,30 +2052,34 @@
      inkscape:label="my_effort">
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium"
-       x="139.87097"
-       y="756.85089"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="138.88889"
+       y="714.15533"
        id="text3446"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3448"
-         x="139.87097"
-         y="756.85089"
-         style="font-weight:bold;-inkscape-font-specification:URW Palladio L Bold">My Efforts</tspan><tspan
+         x="138.88889"
+         y="714.15533"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">My Efforts</tspan><tspan
          sodipodi:role="line"
-         x="139.87097"
-         y="787.16486"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
+         x="138.88889"
+         y="745.40533"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan3630">Don't use Newton out-of-the-box, things are moving</tspan><tspan
          sodipodi:role="line"
-         x="139.87097"
-         y="817.16486"
-         style="font-weight:500;-inkscape-font-specification:URW Palladio L Medium"
-         id="tspan3632">Need a stable, constant velocity solution for gravity.</tspan><tspan
+         x="138.88889"
+         y="776.65533"
+         id="tspan3456"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Need a stable, constant velocity solution for gravity.</tspan><tspan
          sodipodi:role="line"
-         x="139.87097"
-         y="847.16486"
-         id="tspan3456" /></text>
+         x="138.88889"
+         y="807.90533"
+         id="tspan7715">Product rule may come into play</tspan><tspan
+         sodipodi:role="line"
+         x="138.88889"
+         y="839.15533"
+         id="tspan7719">Use BOTH terms, not just the first one</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

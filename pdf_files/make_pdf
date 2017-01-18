@@ -1,2 +1,2 @@
-#!/usr/bin
-pdftk p*pdf cat output summary.pdf
+#!/bin/bash
+/usr/local/bin/gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/default -dNOPAUSE -dQUIET -dBATCH -dDetectDuplicateImages -dCompressFonts=true -r150 -sOutputFile=summary.pdf p*.pdf
